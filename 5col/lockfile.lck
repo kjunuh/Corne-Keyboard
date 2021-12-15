@@ -1,0 +1,120 @@
+3452.096|   OKAY| Working Set Size: 232MiB (-115) Peak: 484MiB (+0)   Pagefile Usage: 207MiB (-120) Peak: 469MiB (+0)   Private Usage: 207MiB (-120)
+113467.096|   OKAY| Working Set Size: 85MiB (-147) Peak: 484MiB (+0)   Pagefile Usage: 55MiB (-152) Peak: 469MiB (+0)   Private Usage: 55MiB (-152)
+116472.664|   OKAY| Page Fault Count: 8555K (+100)
+117039.104|   OKAY| Unregistering V8 context for browser 1, frame 428.
+117039.360|   OKAY| Registering V8 context for browser 1, frame 443, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+117042.768|   OKAY| Working Set Size: 453MiB (+368) Peak: 484MiB (+0)   Pagefile Usage: 438MiB (+383) Peak: 469MiB (+0)   Private Usage: 438MiB (+383)
+117042.768|   OKAY| Page Fault Count: 8748K (+193)
+117062.768|   OKAY| Working Set Size: 257MiB (-196) Peak: 484MiB (+0)   Pagefile Usage: 232MiB (-206) Peak: 469MiB (+0)   Private Usage: 232MiB (-206)
+117067.768|   OKAY| Working Set Size: 106MiB (-151) Peak: 484MiB (+0)   Pagefile Usage: 75MiB (-157) Peak: 469MiB (+0)   Private Usage: 75MiB (-157)
+117132.776|   OKAY| Working Set Size: 78MiB (-28) Peak: 484MiB (+0)   Pagefile Usage: 47MiB (-28) Peak: 469MiB (+0)   Private Usage: 47MiB (-28)
+120053.408|   OKAY| Page Fault Count: 8848K (+100)
+120639.136|   OKAY| Unregistering V8 context for browser 1, frame 443.
+120639.640|   OKAY| Registering V8 context for browser 1, frame 458, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+120643.504|   OKAY| Working Set Size: 265MiB (+187) Peak: 484MiB (+0)   Pagefile Usage: 241MiB (+194) Peak: 469MiB (+0)   Private Usage: 241MiB (+194)
+120643.504|   OKAY| Page Fault Count: 9043K (+195)
+120663.504|   OKAY| Working Set Size: 238MiB (-27) Peak: 484MiB (+0)   Pagefile Usage: 213MiB (-28) Peak: 469MiB (+0)   Private Usage: 213MiB (-28)
+120668.504|   OKAY| Working Set Size: 88MiB (-150) Peak: 484MiB (+0)   Pagefile Usage: 56MiB (-157) Peak: 469MiB (+0)   Private Usage: 56MiB (-157)
+120728.512|   OKAY| Working Set Size: 78MiB (-10) Peak: 484MiB (+0)
+120743.520|   OKAY| Pagefile Usage: 46MiB (-10) Peak: 469MiB (+0)   Private Usage: 46MiB (-10)
+123678.952|   OKAY| Page Fault Count: 9143K (+100)
+124239.208|   OKAY| Unregistering V8 context for browser 1, frame 458.
+124239.512|   OKAY| Registering V8 context for browser 1, frame 473, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+124244.104|   OKAY| Working Set Size: 344MiB (+266) Peak: 484MiB (+0)   Pagefile Usage: 324MiB (+278) Peak: 469MiB (+0)   Private Usage: 324MiB (+278)
+124244.104|   OKAY| Page Fault Count: 9335K (+192)
+124259.104|   OKAY| Working Set Size: 250MiB (-94) Peak: 484MiB (+0)   Pagefile Usage: 226MiB (-98) Peak: 469MiB (+0)   Private Usage: 226MiB (-98)
+124264.112|   OKAY| Working Set Size: 99MiB (-151) Peak: 484MiB (+0)   Pagefile Usage: 70MiB (-156) Peak: 469MiB (+0)   Private Usage: 70MiB (-156)
+124329.120|   OKAY| Working Set Size: 78MiB (-21) Peak: 484MiB (+0)   Pagefile Usage: 47MiB (-23) Peak: 469MiB (+0)   Private Usage: 47MiB (-23)
+127254.544|   OKAY| Page Fault Count: 9435K (+100)
+127839.256|   OKAY| Unregistering V8 context for browser 1, frame 473.
+127839.504|   OKAY| Registering V8 context for browser 1, frame 488, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+127839.624|   OKAY| Working Set Size: 67MiB (-11) Peak: 484MiB (+0)   Pagefile Usage: 35MiB (-12) Peak: 469MiB (+0)   Private Usage: 35MiB (-12)
+127844.624|   OKAY| Working Set Size: 485MiB (+418) Peak: 485MiB (+1)   Pagefile Usage: 470MiB (+435) Peak: 470MiB (+1)   Private Usage: 470MiB (+435)
+127844.624|   OKAY| Page Fault Count: 9630K (+195)
+127859.624|   OKAY| Working Set Size: 266MiB (-219) Peak: 485MiB (+0)   Pagefile Usage: 242MiB (-228) Peak: 470MiB (+0)   Private Usage: 242MiB (-228)
+127864.624|   OKAY| Working Set Size: 114MiB (-152) Peak: 485MiB (+0)   Pagefile Usage: 84MiB (-158) Peak: 470MiB (+0)   Private Usage: 84MiB (-158)
+127994.648|   OKAY| Working Set Size: 79MiB (-35) Peak: 485MiB (+0)   Pagefile Usage: 48MiB (-36) Peak: 470MiB (+0)   Private Usage: 48MiB (-36)
+130925.000|   OKAY| Page Fault Count: 9730K (+100)
+131439.344|   OKAY| Unregistering V8 context for browser 1, frame 488.
+131439.592|   OKAY| Registering V8 context for browser 1, frame 503, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+131445.080|   OKAY| Working Set Size: 372MiB (+293) Peak: 485MiB (+0)   Pagefile Usage: 352MiB (+304) Peak: 470MiB (+0)   Private Usage: 352MiB (+304)
+131445.080|   OKAY| Page Fault Count: 9922K (+192)
+131460.080|   OKAY| Working Set Size: 253MiB (-119) Peak: 485MiB (+0)   Pagefile Usage: 229MiB (-123) Peak: 470MiB (+0)   Private Usage: 229MiB (-123)
+131465.080|   OKAY| Working Set Size: 102MiB (-151) Peak: 485MiB (+0)   Pagefile Usage: 71MiB (-158) Peak: 470MiB (+0)   Private Usage: 71MiB (-158)
+131500.080|   OKAY| Working Set Size: 78MiB (-24) Peak: 485MiB (+0)   Pagefile Usage: 47MiB (-24) Peak: 470MiB (+0)   Private Usage: 47MiB (-24)
+134525.664|   OKAY| Page Fault Count: 10022K (+100)
+134540.672|   OKAY| Working Set Size: 62MiB (-16) Peak: 485MiB (+0)
+134840.768|   OKAY| Working Set Size: 45MiB (-17) Peak: 485MiB (+0)
+135039.424|   OKAY| Unregistering V8 context for browser 1, frame 503.
+135039.712|   OKAY| Registering V8 context for browser 1, frame 518, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+135040.800|   OKAY| Working Set Size: 395MiB (+350) Peak: 485MiB (+0)   Pagefile Usage: 380MiB (+333) Peak: 470MiB (+0)   Private Usage: 380MiB (+333)
+135040.800|   OKAY| Page Fault Count: 10147K (+125)
+135045.792|   OKAY| Working Set Size: 265MiB (-130) Peak: 485MiB (+0)   Pagefile Usage: 242MiB (-138) Peak: 470MiB (+0)   Private Usage: 242MiB (-138)
+135060.816|   OKAY| Working Set Size: 238MiB (-27) Peak: 485MiB (+0)   Pagefile Usage: 213MiB (-29) Peak: 470MiB (+0)   Private Usage: 213MiB (-29)
+135065.808|   OKAY| Working Set Size: 90MiB (-148) Peak: 485MiB (+0)   Pagefile Usage: 60MiB (-153) Peak: 470MiB (+0)   Private Usage: 60MiB (-153)
+135180.816|   OKAY| Working Set Size: 76MiB (-14) Peak: 485MiB (+0)   Pagefile Usage: 45MiB (-15) Peak: 470MiB (+0)   Private Usage: 45MiB (-15)
+135845.888|   OKAY| Page Fault Count: 10247K (+100)
+136951.104|   OKAY| Working Set Size: 56MiB (-20) Peak: 485MiB (+0)
+137251.168|   OKAY| Working Set Size: 44MiB (-12) Peak: 485MiB (+0)
+138639.488|   OKAY| Unregistering V8 context for browser 1, frame 518.
+138639.712|   OKAY| Registering V8 context for browser 1, frame 533, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+138642.240|   OKAY| Working Set Size: 370MiB (+326) Peak: 485MiB (+0)   Pagefile Usage: 352MiB (+307) Peak: 470MiB (+0)   Private Usage: 352MiB (+307)
+138642.240|   OKAY| Page Fault Count: 10515K (+268)
+138662.240|   OKAY| Working Set Size: 247MiB (-123) Peak: 485MiB (+0)   Pagefile Usage: 223MiB (-129) Peak: 470MiB (+0)   Private Usage: 223MiB (-129)
+138667.232|   OKAY| Working Set Size: 100MiB (-147) Peak: 485MiB (+0)   Pagefile Usage: 71MiB (-152) Peak: 470MiB (+0)   Private Usage: 71MiB (-152)
+138867.264|   OKAY| Working Set Size: 77MiB (-23) Peak: 485MiB (+0)   Pagefile Usage: 46MiB (-25) Peak: 470MiB (+0)   Private Usage: 46MiB (-25)
+141677.632|   OKAY| Page Fault Count: 10615K (+100)
+142239.552|   OKAY| Unregistering V8 context for browser 1, frame 533.
+142239.840|   OKAY| Registering V8 context for browser 1, frame 548, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+142242.704|   OKAY| Working Set Size: 266MiB (+189) Peak: 485MiB (+0)   Pagefile Usage: 242MiB (+196) Peak: 470MiB (+0)   Private Usage: 242MiB (+196)
+142242.704|   OKAY| Page Fault Count: 10808K (+193)
+142262.704|   OKAY| Working Set Size: 238MiB (-28) Peak: 485MiB (+0)   Pagefile Usage: 212MiB (-30) Peak: 470MiB (+0)   Private Usage: 212MiB (-30)
+142267.696|   OKAY| Working Set Size: 87MiB (-151) Peak: 485MiB (+0)   Pagefile Usage: 56MiB (-156) Peak: 470MiB (+0)   Private Usage: 56MiB (-156)
+142432.752|   OKAY| Working Set Size: 77MiB (-10) Peak: 485MiB (+0)   Pagefile Usage: 46MiB (-10) Peak: 470MiB (+0)   Private Usage: 46MiB (-10)
+145273.152|   OKAY| Page Fault Count: 10908K (+100)
+145839.600|   OKAY| Unregistering V8 context for browser 1, frame 548.
+145839.840|   OKAY| Registering V8 context for browser 1, frame 563, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+145843.216|   OKAY| Working Set Size: 265MiB (+188) Peak: 485MiB (+0)   Pagefile Usage: 242MiB (+196) Peak: 470MiB (+0)   Private Usage: 242MiB (+196)
+145843.216|   OKAY| Page Fault Count: 11102K (+194)
+145863.232|   OKAY| Working Set Size: 237MiB (-28) Peak: 485MiB (+0)   Pagefile Usage: 212MiB (-30) Peak: 470MiB (+0)   Private Usage: 212MiB (-30)
+145868.240|   OKAY| Working Set Size: 86MiB (-151) Peak: 485MiB (+0)   Pagefile Usage: 55MiB (-157) Peak: 470MiB (+0)   Private Usage: 55MiB (-157)
+146018.256|   OKAY| Working Set Size: 76MiB (-10) Peak: 485MiB (+0)
+146028.256|   OKAY| Pagefile Usage: 45MiB (-10) Peak: 470MiB (+0)   Private Usage: 45MiB (-10)
+148868.784|   OKAY| Page Fault Count: 11202K (+100)
+149439.664|   OKAY| Unregistering V8 context for browser 1, frame 563.
+149439.968|   OKAY| Registering V8 context for browser 1, frame 578, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+149443.952|   OKAY| Working Set Size: 264MiB (+188) Peak: 485MiB (+0)   Pagefile Usage: 240MiB (+195) Peak: 470MiB (+0)   Private Usage: 240MiB (+195)
+149443.952|   OKAY| Page Fault Count: 11395K (+193)
+149463.952|   OKAY| Working Set Size: 239MiB (-25) Peak: 485MiB (+0)   Pagefile Usage: 213MiB (-27) Peak: 470MiB (+0)   Private Usage: 213MiB (-27)
+149468.960|   OKAY| Working Set Size: 87MiB (-152) Peak: 485MiB (+0)   Pagefile Usage: 55MiB (-158) Peak: 470MiB (+0)   Private Usage: 55MiB (-158)
+149573.984|   OKAY| Working Set Size: 77MiB (-10) Peak: 485MiB (+0)
+152459.504|   OKAY| Page Fault Count: 11495K (+100)
+153039.712|   OKAY| Unregistering V8 context for browser 1, frame 578.
+153039.968|   OKAY| Registering V8 context for browser 1, frame 593, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+153044.560|   OKAY| Working Set Size: 263MiB (+186) Peak: 485MiB (+0)   Pagefile Usage: 239MiB (+184) Peak: 470MiB (+0)   Private Usage: 239MiB (+184)
+153044.560|   OKAY| Page Fault Count: 11689K (+194)
+153059.568|   OKAY| Working Set Size: 240MiB (-23) Peak: 485MiB (+0)   Pagefile Usage: 215MiB (-24) Peak: 470MiB (+0)   Private Usage: 215MiB (-24)
+153064.560|   OKAY| Working Set Size: 92MiB (-148) Peak: 485MiB (+0)   Pagefile Usage: 61MiB (-154) Peak: 470MiB (+0)   Private Usage: 61MiB (-154)
+153199.584|   OKAY| Working Set Size: 78MiB (-14) Peak: 485MiB (+0)   Pagefile Usage: 47MiB (-14) Peak: 470MiB (+0)   Private Usage: 47MiB (-14)
+156065.040|   OKAY| Page Fault Count: 11789K (+100)
+156639.792|   OKAY| Unregistering V8 context for browser 1, frame 593.
+156640.048|   OKAY| Registering V8 context for browser 1, frame 608, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+156640.128|   OKAY| Working Set Size: 67MiB (-11) Peak: 485MiB (+0)   Pagefile Usage: 35MiB (-12) Peak: 470MiB (+0)   Private Usage: 35MiB (-12)
+156645.120|   OKAY| Working Set Size: 268MiB (+201) Peak: 485MiB (+0)   Pagefile Usage: 243MiB (+208) Peak: 470MiB (+0)   Private Usage: 243MiB (+208)
+156645.120|   OKAY| Page Fault Count: 11984K (+195)
+156660.128|   OKAY| Working Set Size: 241MiB (-27) Peak: 485MiB (+0)   Pagefile Usage: 215MiB (-28) Peak: 470MiB (+0)   Private Usage: 215MiB (-28)
+156665.152|   OKAY| Working Set Size: 92MiB (-149) Peak: 485MiB (+0)   Pagefile Usage: 61MiB (-154) Peak: 470MiB (+0)   Private Usage: 61MiB (-154)
+156825.184|   OKAY| Working Set Size: 79MiB (-13) Peak: 485MiB (+0)   Pagefile Usage: 47MiB (-14) Peak: 470MiB (+0)   Private Usage: 47MiB (-14)
+159730.848|   OKAY| Page Fault Count: 12084K (+100)
+160239.840|   OKAY| Unregistering V8 context for browser 1, frame 608.
+160240.080|   OKAY| Registering V8 context for browser 1, frame 623, url https://frontpage.na.leagueoflegends.com/en_US/channel/lol/home/event/arcane-lexp-hub-2021#protocol=https:&port=56557.
+160240.896|   OKAY| Working Set Size: 193MiB (+114) Peak: 485MiB (+0)   Pagefile Usage: 167MiB (+120) Peak: 470MiB (+0)   Private Usage: 167MiB (+120)
+160245.888|   OKAY| Working Set Size: 351MiB (+158) Peak: 551MiB (+66)   Pagefile Usage: 330MiB (+163) Peak: 540MiB (+70)   Private Usage: 330MiB (+163)
+160245.888|   OKAY| Page Fault Count: 12275K (+191)
+160260.896|   OKAY| Working Set Size: 251MiB (-100) Peak: 551MiB (+0)   Pagefile Usage: 227MiB (-103) Peak: 540MiB (+0)   Private Usage: 227MiB (-103)
+160265.888|   OKAY| Working Set Size: 101MiB (-150) Peak: 551MiB (+0)   Pagefile Usage: 71MiB (-156) Peak: 540MiB (+0)   Private Usage: 71MiB (-156)
+160320.912|   OKAY| Pagefile Usage: 61MiB (-10) Peak: 540MiB (+0)   Private Usage: 61MiB (-10)
+160395.904|   OKAY| Working Set Size: 79MiB (-22) Peak: 551MiB (+0)   Pagefile Usage: 48MiB (-13) Peak: 540MiB (+0)   Private Usage: 48MiB (-13)
+162320.320|   OKAY| Unregistering V8 context for browser 1, frame 623.
+162320.368|   OKAY| Browser 1 destroyed.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
